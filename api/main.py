@@ -1,5 +1,4 @@
 from flask import Flask
-
 import restaurant.sps
 
 app = Flask(__name__)
